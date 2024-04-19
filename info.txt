@@ -1,0 +1,5 @@
+HOW TO USE
+
+1. Buat Database "biodata" di PHPMYADMIN/MYSQL
+2. Import data_biodata.sql ke database biodata
+3. Akses biodata.php melalui localhost web
